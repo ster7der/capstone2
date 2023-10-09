@@ -6,7 +6,7 @@ body {
 #hero {
     display: flex;
     background: linear-gradient(129deg,  #8bafac25, #a5b3b234), linear-gradient(#abbbba48, #92a09f00),
-     url(pictures/black-blocks.jpg) no-repeat !important;
+     url(black-blocks.jpg) no-repeat !important;
     /* height: 70vh; */
 }
 
